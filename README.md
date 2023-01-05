@@ -7,4 +7,4 @@ obs: site sem responsividade.
 HTML5<br>
 CSS3
 
-# https://phpnogueira.github.io/cm-life/  para ver o projeto funcionando.
+# https://phpnogueira.github.io/pousada-secreta/  para ver o projeto funcionando.
